@@ -1,2 +1,16 @@
-# joyful-pattern-recognition
-Some practice on pattern-recognition.
+## 模式识别实践
+
+本仓库存放了我在 XDU 人工智能学院大三上学期开设的**模式识别课程**中完成的作业代码，涵盖了一系列经典的模式识别算法，并针对一些玩具数据集开展了简单而好玩的实践任务。
+
+本仓库使用 python 作为编程语言，涉及算法的具体实现使用 numpy 和 sckit-learn 工具包完成，适合模式识别的初学者进行入门学习，**具体环境配置见各算法目录的 README 文档**。
+
+**涉及到的数据集可以在 `./dataset` 目录中找到。**
+
+### 实践内容
+
+
+**Fisher 线性判别分析** | 你可以在 `./Fisher` 目录中找到实验的全部代码。
+
+**K-近邻算法分析** | working on progress
+
+**K-means 与 FCM 算法性能比较** | working on progress
