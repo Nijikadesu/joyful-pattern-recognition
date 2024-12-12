@@ -26,8 +26,8 @@ def run(args):
         pred = svm_classifier.predict(X_test)
 
         view(X_train, X_test, svm_classifier, kernel)
-        report = classification_report(y_test, pred)
-        print(f"Classification Report(Using Kernel {kernel}):\n{report}\n")
+        Classification_Report = classification_report(y_test, pred)
+        print(f"Classification Report(Using Kernel {kernel}):{Classification_Report}\n")
 
 
 def get_args():
