@@ -6,9 +6,9 @@
 
 ##  What‘s inside?
 
-|       算法名称       |  相关材料   |  进度  |             Detail              |
-|:----------------:|:-------:|:----:|:-------------------------------:|
-|    1. Fisher     |  numpy  | Done |  [readme](./fisher/README.md)   |
-|      2. KNN      |  numpy  | Done |    [readme](./knn/README.md)    |
-| 3. K-Means & FCM |  numpy  | Done | [readme](./kmeas&fcm/README.md) |
-|      4. SVM      | sklearn | Done |    [readme](./svm/README.md)    |
+|       算法名称       |  相关材料   |  进度  |              Detail              |
+|:----------------:|:-------:|:----:|:--------------------------------:|
+|    1. Fisher     |  numpy  | Done |   [readme](./fisher/README.md)   |
+|      2. KNN      |  numpy  | Done |    [readme](./knn/README.md)     |
+| 3. K-Means & FCM |  numpy  | Done | [readme](./kmeans&fcm/README.md) |
+|      4. SVM      | sklearn | Done |    [readme](./svm/README.md)     |
